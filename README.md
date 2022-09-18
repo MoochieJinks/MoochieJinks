@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moochiejinks&label=Profile%20views&color=0e75b6&style=flat" alt="moochiejinks" /> </p>
 
-- 🔭 Currently working on a solo-project titled Minimalist Closet. [A simple organization-centered application that is easy to use and modify. Minimalist Closet](https://github.com/MoochieJinks/Minimalist_Closet)
+- 🔭 Currently working on a solo-project titled Minimalist Closet: [A simple organization-centered application that is easy to use and modify.](https://github.com/MoochieJinks/Minimalist_Closet)
 
-- 🌱 I’m currently interested in learning about **Ruby on Rails, mongoDB, React Native, AWS**
+- 🌱 I’m currently interested in learning about: **Ruby on Rails, mongoDB, React Native, AWS**
 
-- 🖼 Delivered a successful checklist application to a client after 4 weeks of collaborative work with 5 fellow classmates [SuperStruct Paint Co.](https://github.com/HOZ1997/paint-group-project)
+- 🖼 Delivered a successful checklist application to a client after 4 weeks of collaborative work with 5 fellow classmates: [SuperStruct Paint Co.](https://github.com/HOZ1997/paint-group-project)
 
-- 🍎 I’m also working with API integration for applications, starting with Spotify API using OAuth 2.0 [Spotify Stats.](https://github.com/MoochieJinks/Playlist_Info)
+- 🍎 I’m also working with API integration for applications, starting with Spotify API using OAuth 2.0: [Spotify Stats.](https://github.com/MoochieJinks/Playlist_Info)
 
 - 👨‍💻 All of my professional experience can be seen on LinkedIn! [https://www.linkedin.com/in/harrison-browning/](https://www.linkedin.com/in/harrison-browning/)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about: **Node.js, OAuth 2.0, React, SQL**
 
-- 📫 You can reach me at my **Email: harrisonbrowning1@gmail.com**
+- 📫 You can reach me at my email: **harrisonbrowning1@gmail.com**
 
 - 🎓 Professional Resume an be found here: [https://drive.google.com/file/d/1YZPfru_vrkcjwBBfg3bb2RbKHe79b8og/view?usp=sharing](https://drive.google.com/file/d/1YZPfru_vrkcjwBBfg3bb2RbKHe79b8og/view?usp=sharing)
 
