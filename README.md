@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 - 📅 Graduated from the Full-Stack Engineering program at Prime Digital Academy! [https://www.primeacademy.io/](https://www.primeacademy.io/)
 
-- 💬 Ask me about **Node.js, OAuth 2.0, React, SQL**
+- 💬 Ask me about: **Node.js, OAuth 2.0, React, SQL**
 
-- 📫 How to reach me **Email: harrisonbrowning1@gmail.com**
+- 📫 You can reach me at my **Email: harrisonbrowning1@gmail.com**
 
 - 🎓 Professional Resume an be found here: [https://drive.google.com/file/d/1YZPfru_vrkcjwBBfg3bb2RbKHe79b8og/view?usp=sharing](https://drive.google.com/file/d/1YZPfru_vrkcjwBBfg3bb2RbKHe79b8og/view?usp=sharing)
 
-- ⚡ Fun fact **I make very good cookies, and would probably win in a baking competition🍪**
+- ⚡ Fun fact: **I make very good cookies, and would probably win in a baking competition🍪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
